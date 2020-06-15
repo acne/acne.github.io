@@ -5,11 +5,9 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2
 [Weiwei Sun](https://weiweisun2018.github.io/), [Wei Jiang](https://jiangwei221.github.io/), [Eduard Trulls](http://etrulls.github.io/), [Andrea Tagliasacchi](http://gfx.uvic.ca/people/ataiya), [Kwang Moo Yi](http://vision.uvic.ca/people/kmyi).
 
 [Code](https://github.com/vcg-uvic/acne) &emsp; | &emsp;
-[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_ACNe_Attentive_Context_Normalization_for_Robust_Permutation-Equivariant_Learning_CVPR_2020_paper.pdf)&emsp; | &emsp;
+[paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_ACNe_Attentive_Context_Normalization_for_Robust_Permutation-Equivariant_Learning_CVPR_2020_paper.pdf)
 
-[![IMAGE ALT TEXT](308-teaser.gif)](https://www.youtube.com/watch?v=c4i_uhTPGTQ "Video Title")
-
-[Video](https://www.youtube.com/watch?v=c4i_uhTPGTQ)
+[![IMAGE ALT TEXT](video.png)](https://www.youtube.com/watch?v=c4i_uhTPGTQ "Video Title")
 
 ### Abstraction
 ![teaser](308-teaser.gif)
