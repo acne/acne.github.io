@@ -8,7 +8,7 @@ Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2
 [Code](https://github.com/vcg-uvic/acne) &emsp; | &emsp;
 [paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Sun_ACNe_Attentive_Context_Normalization_for_Robust_Permutation-Equivariant_Learning_CVPR_2020_paper.pdf)
 
-### 1 Min Teaser VideoVideo
+### Teaser Video
 [![IMAGE ALT TEXT](video.png)](https://www.youtube.com/watch?v=c4i_uhTPGTQ "1min Teaser Video")
 
 ### Abstraction
